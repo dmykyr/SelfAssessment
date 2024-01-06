@@ -17,17 +17,17 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -65,9 +65,9 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection: 🎓 known
   - GRASP
-  - SOLID
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 🖐️ used
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -114,9 +114,9 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
-  - Testing
+  - Testing: 🖐️ used
   - CI/CD
   - Readable
   - Writable
@@ -131,10 +131,10 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
   - Error
   - error.cause
@@ -147,7 +147,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 🎓 known
   - Resource leaks
   - Data race
 - Integrations and bindings

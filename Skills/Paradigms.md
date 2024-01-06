@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 👂 heard
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Structured programming: 🙋 explained
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🙋 explained
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🖐️ used
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,46 +21,46 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - constructor: 🙋 explained
+  - new: 🖐️ used
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🖐️ used
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
   - Hidden class
   - Object form
-  - instance
-  - Introspection
+  - instance: 🖐️ used
+  - Introspection: 🖐️ used
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 👂 heard
+  - Facade: 🎓 known
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 🖐️ used
   - State
-  - Bridge
-  - Builder
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
   - Prototype
   - Composite
-  - Decorator
-  - Flyweight
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor: 👂 heard
