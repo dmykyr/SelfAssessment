@@ -17,7 +17,7 @@
   - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread: 🖐️ used
   - Process: 🖐️ used
@@ -38,7 +38,7 @@
   - Signal: 👂 heard
   - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware: 👂 heard
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all: 👂 heard
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
-  - Promise.any: 👂 heard
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API

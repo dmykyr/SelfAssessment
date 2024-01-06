@@ -13,8 +13,8 @@
   - procedure: 🎓 known
   - method: 🙋 explained
   - class: 🙋 explained
-  - prototype: 🖐️ used
-  - event: 🖐️ used
+  - prototype: 🙋 explained
+  - event: 🙋 explained
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
@@ -24,24 +24,24 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression: 🖐️ used
+  - regular expression: 🙋 explained
   - interface: 🖐️ used
   - contract
-  - module: 👂 heard
+  - module: 🖐️ used
   - call stack: 🎓 known
 - Functions
-  - signature: 🎓 known
+  - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
-  - pure function: 🖐️ used
-  - lambda expression: 🖐️ used
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
   - side effects: 👂 heard
   - closure
   - partial application
   - curry
   - higher order: 🎓 known
-  - recursion: 🖐️ used
-  - callback: 🖐️ used
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
   - listener: 🖐️ used
   - compose
   - pipe: 👂 heard
@@ -59,7 +59,7 @@
   - enum: 🙋 explained
   - instance: 🖐️ used
   - object: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 explained
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
@@ -67,11 +67,11 @@
   - doubly list
   - unrolled list
   - circular list
-  - queue: 🖐️ used
-  - stack: 🖐️ used
-  - deque: 👂 heard
-  - tree: 🖐️ used
-  - graph: 🖐️ used
+  - queue: 🙋 explained
+  - stack: 🙋 explained
+  - deque: 🙋 explained
+  - tree: 🙋 explained
+  - graph: 🙋 explained
   - iterator: 🖐️ used
   - mutable state: 🎓 known
   - immutable state: 🎓 known
@@ -93,8 +93,8 @@
   - hardcode: 🙋 explained
   - complexity: 🎓 known
   - decomposition: 🎓 known
-  - spaghetti
-  - silver bullet
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
   - not invented here
   - dead code: 🎓 known
   - unreachable code: 🙋 explained

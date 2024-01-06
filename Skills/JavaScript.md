@@ -3,7 +3,7 @@
 - Language
   - Object: 🖐️ used
   - this: 🖐️ used
-  - arrow function: 🖐️ used
+  - arrow function: 🙋 explained
   - async function: 🖐️ used
   - call
   - bind
@@ -14,7 +14,7 @@
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
   - generator
-  - iterator
+  - iterator: 🙋 explained
   - async generator
   - async iterator
   - chaining
@@ -23,17 +23,17 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 🙋 explained
   - __proto__
   - prototype
   - equality operators
   - logical operators
   - bitwise operators
-  - ternary operator
+  - ternary operator: 🙋 explained
   - void: 🖐️ used
-  - yield
+  - yield: 👂 heard
   - await: 🖐️ used
-  - template literal
+  - template literal: 🎓 known
   - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
@@ -64,14 +64,14 @@
   - function expression: 🙋 explained
   - return: 🙋 explained
   - default parameters: 🙋 explained
-  - functional object: 🎓 known
+  - functional object: 🖐️ used
 - Data structures
   - Array: 🙋 explained
   - mixin
   - extend
   - typed arrays: 🖐️ used
   - Map: 🙋 explained
-  - Set: 🖐️ used
+  - Set: 🙋 explained
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy
@@ -85,5 +85,5 @@
   - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier
+  - prettier: 🖐️ used
   - MDN
