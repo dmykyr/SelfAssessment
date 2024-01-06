@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop
-  - try..catch
-  - Non-blocking
+  - try..catch: 🖐️ used
+  - Non-blocking: 🖐️ used
   - Async I/O
-  - Thread pool
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,19 +14,19 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -35,10 +35,10 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 👂 heard
+  - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
   - callbackify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API

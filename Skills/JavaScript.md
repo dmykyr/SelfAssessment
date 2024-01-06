@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
   - call
   - bind
   - apply
   - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
   - generator
   - iterator
   - async generator
@@ -30,60 +30,60 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 🖐️ used
   - yield
-  - await
+  - await: 🖐️ used
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🎓 known
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🎓 known
 - Data structures
-  - Array
+  - Array: 🙋 explained
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - typed arrays: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
+  - Date: 🖐️ used
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier
   - MDN
