@@ -94,7 +94,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 🖐️ used
+  - REST: 🙋 explained
   - RPC
   - Routing: 🖐️ used
   - DoS: 👂 heard
@@ -134,7 +134,7 @@
   - Repository: 🖐️ used
   - Active record
   - Query builder: 🖐️ used
-  - Object-Relational Mapping: 🖐️ used
+  - Object-Relational Mapping: 🙋 explained
 - Error handling and debugging
   - Error
   - error.cause

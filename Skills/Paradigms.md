@@ -42,9 +42,9 @@
   - Introspection: 🖐️ used
   - Reflection
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
-  - Abstract Factory: 🎓 known
+  - Singleton: 🙋 explained
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter: 🎓 known
   - Observer: 🎓 known
   - Strategy: 👂 heard
